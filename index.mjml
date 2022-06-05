@@ -1,0 +1,150 @@
+<mjml lang="en">
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-preview></mj-preview>
+    <mj-style>
+      
+  u + .emailify a,
+  #MessageViewBody a,
+  a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+  }
+
+  span.MsoHyperlink { mso-style-priority:99; color:inherit; } span.MsoHyperlinkFollowed { mso-style-priority:99; color:inherit; }
+  
+  u + .emailify .glist { margin-left: 0 !important; } 
+  
+  @media only screen and (max-width:599px) {
+    .emailify { height:100% !important; margin:0 !important; padding:0 !important; width:100% !important; }
+    u + .emailify .glist { margin-left: 25px !important; }
+    td.x { padding-left: 0!important; padding-right: 0!important; }
+    br.sb { display: none!important; }
+    .hd-1 { display: block!important; height: auto!important; overflow: visible!important; }
+    .ht-1 { display: table!important; height: auto!important; overflow: visible!important; }
+    .hr-1 { display: table-row!important; height: auto!important; overflow: visible!important; }
+    .hc-1 { display: table-cell!important; height: auto!important; overflow: visible!important; }
+    div.r.pr-16 > table > tbody > tr > td { padding-right:16px!important }div.r.pl-16 > table > tbody > tr > td { padding-left:16px!important }td.b.fw-1 > table { width:100%!important } td.fw-1 > table > tbody > tr > td > a { display: block!important; width: 100%!important; padding-left: 0!important; padding-right: 0!important; }
+    td.b.fw-1 > table { width:100%!important } td.fw-1 > table > tbody > tr > td { width: 100%!important; padding-left: 0!important; padding-right: 0!important; }div.r.pt-24 > table > tbody > tr > td { padding-top:24px!important }div.r.pb-24 > table > tbody > tr > td { padding-bottom:24px!important }div.r.s-16 > table > tbody > tr > td > div.gtr > table > tbody > tr > td { padding-top:0!important; padding-right:0!important; padding-bottom:16px!important; padding-left:0!important; }div.g.mb-16 > table > tbody > tr > td { padding-bottom:16px!important }div.r.pt-0 > table > tbody > tr > td { padding-top:0px!important }div.r.pr-0 > table > tbody > tr > td { padding-right:0px!important }div.r.pb-0 > table > tbody > tr > td { padding-bottom:0px!important }div.r.pl-0 > table > tbody > tr > td { padding-left:0px!important }td.v.s-8 > div.mj-inline-links > a.l.m { padding-right:8px!important; }
+  
+  }
+    </mj-style>
+    <mj-attributes>
+      <mj-all font-family="Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-breakpoint width="599px"></mj-breakpoint>
+    <mj-font href="https://fonts.googleapis.com/css?family=IBM Plex Sans:500,300" name="IBM Plex Sans"></mj-font>
+    <mj-font href="https://fonts.googleapis.com/css?family=Cairo:700" name="Cairo"></mj-font>
+    <mj-font href="https://fonts.googleapis.com/css?family=Inter:700,400" name="Inter"></mj-font>
+    <mj-style inline="inline">
+      .hd-1, .ht-1, .hr-1, .hc-1, .ds-1 { mso-hide: all; display: none; height: 0; overflow: hidden; } .hd-1 *, .ds-1 * { mso-hide: all; }
+    </mj-style>
+    <mj-raw>
+      
+    <meta name="color-scheme" content="light dark"><meta name="supported-color-schemes" content="light dark">
+    <!--[if gte mso 9]>
+    <style>
+    li {
+        text-indent: -1em;
+    }
+    </style>
+    <![endif]-->
+    </mj-raw>
+  </mj-head>
+  <mj-body background-color="#e5e5e5" width="600px">
+    <mj-section background-color="#fffffe" border-radius="0" border="none" css-class="r  pr-16 pl-16 " id="104:85" padding="16px 16px 16px 16px" text-align="left">
+      <mj-column background-color="transparent" border="none" css-class="c  " id="104:86" vertical-align="middle" width="568px">
+        <mj-section css-class="" padding-bottom="0" padding="0">
+          <mj-column padding="0">
+            <mj-image align="center" alt="" css-class="c  " fluid-on-mobile="true" height="auto" id="106:265" padding="0" src="img/39942ec3846eada3a958821c8323ce31.png" width="223px"></mj-image>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column padding="0">
+        <mj-image align="left" alt="" css-class="i  fw-1 " fluid-on-mobile="true" height="auto" id="116:37" padding="0" src="img/ad1a9e2ebf03bf9afff89d2a7e441978.jpg" width="600px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fffffe" border-radius="0" border="none" css-class="r  pr-16 pl-16 " id="104:88" padding="32px 32px 32px 32px" text-align="left">
+      <mj-column background-color="transparent" border="none" css-class="c  " id="104:89" vertical-align="middle" width="536px">
+        <mj-text align="left" css-class="x  m" font-family="Inter, Arial, sans-serif" font-size="28px" id="104:90" line-height="34px" padding-bottom="8px" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:left;"><span style="mso-line-height-rule: exactly;font-size:28px;font-family:Inter, Arial, sans-serif;font-weight:700;color:#333333;line-height:34px;">Hi, <First Name></span></p>
+        </mj-text>
+        <mj-text align="left" css-class="x  m" font-family="IBM Plex Sans, Arial, sans-serif" font-size="16px" id="104:91" line-height="32px" padding-bottom="8px" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:left;"><span style="mso-line-height-rule: exactly;font-size:16px;font-family:IBM Plex Sans, Arial, sans-serif;font-weight:500;color:#333333;line-height:32px;">According to U.S. Speaker Nancy Pelosi, President Biden does not have the executive authority to cancel federal student loan debt. What does this mean for the federal student loan moratorium set to expire in August 2022? Learn more about what you can do to support your family and others you care about in the emerging student loan crisis.</span></p>
+        </mj-text>
+        <mj-spacer css-class="s  m" height="4px" id="104:92" padding-bottom="8px" padding="0"></mj-spacer>
+        <mj-button align="left" background-color="#f43319" border-radius="60px 60px 60px 60px" border="none" css-class="b  fw-1 " font-family="Inter, Arial, sans-serif" href="#insertUrlLink" id="104:93" inner-padding="12px 0px 12px 0px" line-height="100%" padding-bottom="0" padding="0" vertical-align="middle" width="100%">
+          <span style="mso-line-height-rule: exactly;font-size:20px;font-family:Inter, Arial, sans-serif;font-weight:700;color:#ffffff;line-height:24px;">Learn More</span>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fffffe" border-radius="0" border="none" css-class="r  pt-24 pr-16 pb-24 pl-16 s-16 " id="104:95" padding="16px 16px 16px 16px" text-align="left">
+      <mj-column background-color="transparent" border="none" css-class="m c  " id="104:96" vertical-align="middle" width="178px">
+        <mj-text align="center" css-class="x  m" font-family="Inter, Arial, sans-serif" font-size="28px" id="104:97" line-height="34px" padding-bottom="4px" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:center;"><span style="mso-line-height-rule: exactly;font-size:28px;font-family:Inter, Arial, sans-serif;font-weight:700;color:#000000;line-height:34px;">$1.7T+</span></p>
+        </mj-text>
+        <mj-text align="center" css-class="x  " font-family="Inter, Arial, sans-serif" font-size="13px" id="104:98" line-height="19px" padding-bottom="0" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:center;"><span style="mso-line-height-rule: exactly;font-size:13px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#777777;line-height:19px;">Student loan debt</span></p>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="g mb-16" padding="0" width="16px">
+
+      </mj-column>
+      <mj-column background-color="transparent" border="none" css-class="m c  " id="104:99" vertical-align="middle" width="178px">
+        <mj-text align="center" css-class="x  m" font-family="Inter, Arial, sans-serif" font-size="28px" id="104:100" line-height="34px" padding-bottom="4px" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:center;"><span style="mso-line-height-rule: exactly;font-size:28px;font-family:Inter, Arial, sans-serif;font-weight:700;color:#000000;line-height:34px;">$39k+</span></p>
+        </mj-text>
+        <mj-text align="center" css-class="x  " font-family="Inter, Arial, sans-serif" font-size="13px" id="104:101" line-height="19px" padding-bottom="0" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:center;"><span style="mso-line-height-rule: exactly;font-size:13px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#777777;line-height:19px;">Per student debt</span></p>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="g mb-16" padding="0" width="16px">
+
+      </mj-column>
+      <mj-column background-color="transparent" border="none" css-class="c  " id="104:102" vertical-align="middle" width="178px">
+        <mj-text align="center" css-class="x  m" font-family="Inter, Arial, sans-serif" font-size="28px" id="104:103" line-height="34px" padding-bottom="4px" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:center;"><span style="mso-line-height-rule: exactly;font-size:28px;font-family:Inter, Arial, sans-serif;font-weight:700;color:#000000;line-height:34px;">$1.1T+</span></p>
+        </mj-text>
+        <mj-text align="center" css-class="x  " font-family="Inter, Arial, sans-serif" font-size="13px" id="104:104" line-height="19px" padding-bottom="0" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:center;"><span style="mso-line-height-rule: exactly;font-size:13px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#777777;line-height:19px;">Credit card debt</span></p>
+        </mj-text>
+      </mj-column>
+      <mj-column padding="0" width="1px">
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fffffe" border-radius="0" border="none" css-class="r  pt-0 pr-0 pb-0 pl-0 " id="104:105" padding="0" text-align="left">
+      <mj-column background-color="transparent" border="none" css-class="c  " id="104:106" vertical-align="middle" width="600px">
+        <mj-image align="center" alt="" border-radius="0" css-class="i  fw-1 " fluid-on-mobile="true" id="104:107" padding-bottom="0" padding="0" src="img/43df588e45135e6e57bcf3aa42a7ab90.jpg" width="600px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fffffe" border-radius="0" border="none" css-class="r  " id="104:108" padding="32px 32px 32px 32px" text-align="left">
+      <mj-group direction="ltr" width="100%">
+        <mj-column background-color="transparent" border="none" css-class="c  " id="104:109" vertical-align="middle" width="100%">
+          <mj-image align="center" alt="" border-radius="0" css-class="i  fw-1 " fluid-on-mobile="true" id="106:271" padding-right="0px" padding="0" src="img/dfe348747ac9254e833c166ea40584c1.png" width="336px"></mj-image>
+          <mj-text align="center" css-class="x  " font-family="IBM Plex Sans, Arial, sans-serif" font-size="15px" id="104:249" line-height="33px" padding-right="0" padding="0px 0px 0px 336px">
+            <p style="Margin:0;text-align:center;"><span style="mso-line-height-rule: exactly;font-size:15px;font-family:IBM Plex Sans, Arial, sans-serif;font-weight:300;color:#333333;line-height:33px;">Council for Education</p><p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:15px;font-family:IBM Plex Sans, Arial, sans-serif;font-weight:300;color:#333333;line-height:33px;">4625 West Nevso Drive </p><p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:15px;font-family:IBM Plex Sans, Arial, sans-serif;font-weight:300;color:#333333;line-height:33px;">Suite 2 </p><p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:15px;font-family:IBM Plex Sans, Arial, sans-serif;font-weight:300;color:#333333;line-height:33px;">Las Vegas, Nevada 89103</p><p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:15px;font-family:IBM Plex Sans, Arial, sans-serif;font-weight:300;color:#333333;line-height:33px;">Telephone: 800-307-1076</p><p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:15px;font-family:IBM Plex Sans, Arial, sans-serif;font-weight:300;color:#333333;line-height:33px;">Fax: 877-459-7907</p><p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:15px;font-family:IBM Plex Sans, Arial, sans-serif;font-weight:300;color:#333333;line-height:33px;">Email: hello@CforED.com</p><p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:15px;font-family:IBM Plex Sans, Arial, sans-serif;font-weight:300;color:#333333;line-height:33px;">www.ced.fund<br class="sb"/></span></p>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#eeeeee" border-radius="0" border="none" css-class="r  pr-16 pl-16 " id="104:122" padding="16px 16px 16px 16px" text-align="left">
+      <mj-column background-color="transparent" border="none" css-class="c  " id="104:123" vertical-align="middle" width="568px">
+        <mj-text align="center" css-class="x  m" font-family="Inter, Arial, sans-serif" font-size="11px" id="104:124" line-height="13px" padding-bottom="16px" padding="0px 0px 0px 0px">
+          <p style="Margin:0;text-align:center;"><span style="mso-line-height-rule: exactly;font-size:11px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#aaaaaa;line-height:13px;">Thank you for subscribing to our newsletter to the effect you received our newsletter as a courtesy. However, if you decide that you no longer want to receive such emails from us, feel free to click the link below.</span></p>
+        </mj-text>
+        <mj-navbar align="center" css-class="v  s-8 " padding-bottom="0">
+          <mj-navbar-link css-class="l  " font-family="Inter, Arial, sans-serif" href="#insertUrlLink" id="104:126" line-height="0" padding-bottom="0" padding-left="0" padding-right="0" padding-top="0" padding="0" text-transform="none">
+            <span style="mso-line-height-rule: exactly;font-size:13px;font-family:Inter, Arial, sans-serif;font-weight:400;color:#4d4d4d;line-height:16px;text-decoration:underline;">Unsubscribe</span>
+          </mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
